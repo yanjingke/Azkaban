@@ -1,0 +1,4 @@
+#mrwc.job
+type=command
+dependencies=foo
+command=/home/hadoop/apps/hadoop-2.6.4/bin/hadoop jar test.jar
